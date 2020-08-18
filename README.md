@@ -20,4 +20,4 @@ Talk to me about
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Spiritual Geek](https://spiritual-geek.github.io/)
 
-![Profile views](https://gpvc.arturio.dev/swapnilkul)
+![Profile views](https://gpvc.arturio.dev/swapnilvk)
