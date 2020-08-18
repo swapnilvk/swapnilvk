@@ -14,7 +14,7 @@ Talk to me about
 - **Databases** MySQL, SQLite
 - **Miscellaneous** MFC, Codejock, STL,Microsoft COM, Inter process communication, Multithreading, Design Patterns,Data structures, Algorithms, Object oriented System Design, Machine Learning, Scikit-Learn
 - **Exposure to** R, Go lang, Groovey script, HTML5, Javascript
-- **Solving Data structure and algorithm** C/C++
+
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Spiritual Geek](https://spiritual-geek.github.io/)
