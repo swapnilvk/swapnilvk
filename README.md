@@ -9,17 +9,16 @@ I am Swapnil Kulkarni 😃. I am from Pune, Maharashtra and currently working wi
 
 ## ⚡ Technologies
 Talk to me about
-- Programming languages **C++(11/14/17), C#, VB.net, Python, Powershell, Bash scripting, XML, PHP**
-- Tools​ **Visual studio 2019, Microsoft TFS, GIT, SVN, ADL SCM, Jenkins CICD, Atlassian Confluence, Polarion ALM.**
-- Operating Systems **Windows, Ubuntu, IBM AIX, Solaris**
-- Databases​ **MySQL, SQLite**
-- Miscellaneous​ **MFC, Codejock, STL,Microsoft COM, Inter process communication, Multithreading, Design Patterns,
-Data structures, Algorithms, Object oriented System Design, Machine Learning, Scikit-Learn**
-- Exposure to​ **R, Go lang, Groovey script, HTML5, Javascript**
-- Solving Data structure and algorithm **C/C++**
+- **Programming languages ** C++(11/14/17), C#, VB.net, Python, Powershell, Bash scripting, XML, PHP
+- **Tools​ **Visual studio 2019, Microsoft TFS, GIT, SVN, ADL SCM, Jenkins CICD, Atlassian Confluence, Polarion ALM.
+- **Operating Systems **Windows, Ubuntu, IBM AIX, Solaris
+- **Databases​ **MySQL, SQLite
+- **Miscellaneous​ ** MFC, Codejock, STL,Microsoft COM, Inter process communication, Multithreading, Design Patterns,Data structures, Algorithms, Object oriented System Design, Machine Learning, Scikit-Learn
+- **Exposure to​ **R, Go lang, Groovey script, HTML5, Javascript
+- **Solving Data structure and algorithm **C/C++
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Spiritual Geek](https://spiritual-geek.github.io/)
 - ⚡ Fun fact: Internet users blink less than usual.
 
-[Profile views](https://gpvc.arturio.dev/swapnilkul)
+![Profile views](https://gpvc.arturio.dev/swapnilkul)
