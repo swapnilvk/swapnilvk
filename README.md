@@ -22,6 +22,4 @@ Data structures, Algorithms, Object oriented System Design, Machine Learning, Sc
 - 📫 Read my blogs: [Spiritual Geek](https://spiritual-geek.github.io/)
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=swapnilkul&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=swapnilkul.swapnilkul)
+[Profile views](https://gpvc.arturio.dev/swapnilkul)
