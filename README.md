@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Swapnil Vivek Kulkarni Software engineer and developer . Inspired by open source software systems, loves to explore new technologies and enjoys programming. In spare time, likes to write articles on Technology, Mythology, Culture and Spiritual stuff. tweets as @swapnilkul
+I am Swapnil Vivek Kulkarni Software engineer and developer . Inspired by open source software systems, loves to explore new technologies and enjoys programming.
 
 <!--
 **swapnilvk/swapnilvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
