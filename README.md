@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@swapnilkul-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/swapnilkul)](https://twitter.com/swapnilkul) 
 [![Linkedin Badge](https://img.shields.io/badge/-swapnilkul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnilkul/)](https://www.linkedin.com/in/swapnilkul/) 
 [![Gmail Badge](https://img.shields.io/badge/-kulkarni.swapnil.v@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kulkarni.swapnil.v@gmail.com)](mailto:kulkarni.swapnil.v@gmail.com)
-[![Stackoverflow Badge](https://img.shields.io/badge/-swapnilkulkarni-white?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1614497/swapnil-kulkarni/)](https://stackoverflow.com/users/1614497/swapnil-kulkarni) 
+[![Stackoverflow Badge](https://img.shields.io/badge/-swapnilkulkarni-black?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1614497/swapnil-kulkarni/)](https://stackoverflow.com/users/1614497/swapnil-kulkarni) 
 
 
 I am from Pune, India and currently working with Siemens Digital Industry Softwares.
