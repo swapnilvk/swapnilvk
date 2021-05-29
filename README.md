@@ -7,7 +7,7 @@
 
 
 
-I am from Pune, India and currently working with Siemens Digital Industry Softwares.
+I am from Pune, India and currently working with Brillio.
 I love to explore and learn about new things.
 
 ## ⚡ Technologies
