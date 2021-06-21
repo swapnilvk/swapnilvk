@@ -23,9 +23,6 @@ Talk to me about
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Spiritual Geek](https://spiritual-geek.github.io/)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kambleaa007" alt="kambleaa007" /> </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilvk&layout=compact" alt="Top languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=swapnilvk&show_icons=true&line_height=20">
