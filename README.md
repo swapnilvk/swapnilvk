@@ -7,7 +7,7 @@
 
 
 I am from Pune, India and currently working with Brillio.
-I love to explore and learn about new things.
+I love to explore and learn about new technologies.
 
 ## ⚡ Technologies
 Talk to me about
