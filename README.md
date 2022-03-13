@@ -14,7 +14,7 @@ Talk to me about
 - **Programming languages** C++(11/14/17), C#, VB.net, Python, Perl, Powershell, Bash scripting, XML, JSON, PHP
 - **Tools** Visual studio 2019, Microsoft TFS, GIT, SVN, ADL SCM, Jenkins CICD, Atlassian Confluence, Polarion ALM.
 - **Operating Systems** Windows, Ubuntu, IBM AIX, Solaris, Cent OS
-- **Databases** MySQL, SQLite
+- **Databases** MySQL, SQLite, PostgreSQL
 - **Miscellaneous** STL, MFC, BOOST, Codejock, Microsoft COM, Inter process communication, Multithreading, Design Patterns,Data structures, Algorithms, Object oriented System Design, Machine Learning, Scikit-Learn
 - **Exposure to** R, Go lang, Groovey script, HTML5, Javascript
 
