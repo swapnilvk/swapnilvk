@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@swapnilkul-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/swapnilkul)](https://twitter.com/swapnilkul) 
 
 
-I am from Pune, India and currently working with Brillio.
+I am from Pune, India and currently working with Brillio inc.
 I love to explore and learn about new technologies.
 
 ## ⚡ Technologies
