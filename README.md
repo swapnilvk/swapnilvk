@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-swapnilkul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnilkul/)](https://www.linkedin.com/in/swapnilkul/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-SwapnilKulkarni-gray?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1614497/swapnil-kulkarni/)](https://stackoverflow.com/users/1614497/swapnil-kulkarni) 
