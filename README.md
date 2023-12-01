@@ -13,7 +13,7 @@ I love to explore and learn about new technologies.
 Talk to me about
 - **Programming languages** C++(11/14/17/20), C#, VB.net, Python, Perl, React JS, Powershell, Bash scripting, XML, JSON, PHP
 - **Tools** Vim, Visual studio 2019, VSCode, Microsoft TFS, GitHub, Bitbucket, SVN, ADL SCM, Jenkins CICD, Atlassian Confluence, JIRA, Polarion ALM.
-- **Operating Systems** Windows, Ubuntu, Cent OS, IBM AIX, Solaris
+- **Operating Systems** Windows, Linux[Ubuntu, Cent OS, Red Hat], UNIX[IBM AIX, Solaris, HPUX], Android
 - **Databases** MySQL, SQLite, PostgreSQL
 - **Miscellaneous** STL, MFC, BOOST, Codejock, Microsoft COM, Inter process communication, Multithreading, Design Patterns,Data structures, Algorithms, Object oriented System Design, Machine Learning, Scikit-Learn
 - **Exposure to** R, Go lang, Groovey script, HTML5, Javascript
